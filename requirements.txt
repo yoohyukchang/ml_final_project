@@ -1,0 +1,12 @@
+jupyter
+ipykernel
+nibabel
+matplotlib
+scikit-learn
+patchify
+segmentation-models-3D
+monai
+torch
+numpy
+einops
+pathlib

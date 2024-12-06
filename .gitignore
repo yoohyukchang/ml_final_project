@@ -1,0 +1,12 @@
+.DS_Store
+Desktop.ini
+*.pyc
+__pycache__/
+*/venv/
+*/env/
+*.env/
+model_save/*
+.ipynb_checkpoints/
+model1_prostate_segmentation/predicted_labels/*
+model2_lesion_segmentation/predicted_labels/*
+*.pt
